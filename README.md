@@ -131,14 +131,10 @@ ORDER BY birth_year;
 ## 🧪 Possible Future Improvements
  Use Pandas for data manipulation
 
- Add error logging
-
  Export query results to CSV
 
- Add CLI parameters with argparse
-
- Write unit tests
-
+ Use API requests
+ 
 
 ## 📄 License
 
